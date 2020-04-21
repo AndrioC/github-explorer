@@ -53,7 +53,7 @@ This is a simple application that returns repositories from a specific user from
   #Here you're running the project (a web page will be shown)
   $ yarn start
 ```
-<p style="text-align: center">Developed by  Andrio Corrêa :man_technologist:</p>
----
 
+---
+<p style="text-align: center">Developed by  Andrio Corrêa :man_technologist:</p>
 	
